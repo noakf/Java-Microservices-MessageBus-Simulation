@@ -96,6 +96,3 @@ Ensure compatibility with **UNIX CS Lab Environment (Java 8)**.
 
 ---
 
-##  Authors
-Developed as part of **SPL225 – Software Project Lab**  
-Ben-Gurion University of the Negev, 2024–2025
