@@ -1,5 +1,4 @@
-# SPL225 - Assignment 2
-### GurionRock Pro Max Ultra Over 9000 — Perception & Mapping System
+# GurionRock Pro Max Ultra Over 9000 — Perception & Mapping System
 *Java Concurrency • Microservices • Synchronization • SLAM Simulation*
 
 ---
